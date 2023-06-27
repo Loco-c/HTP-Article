@@ -1,0 +1,13 @@
+Requirements:
+To create a directory 
+$ mkdir myproject
+$ cd myproject
+
+To create anconda enviroment:
+conda create -n venv
+
+To activate enviroment:
+conda activate venv
+
+To install Openai:
+pip instal openai
